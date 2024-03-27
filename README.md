@@ -1,1 +1,2 @@
 # Multiplicative-Inverse-Code
+This file explores the concept of the multiplicative inverse, a number that, when multiplied by another number, yields 1. We present a Python program using the Extended Euclidean Algorithm to compute the multiplicative inverse of two integers. This algorithm is valuable because it not only calculates the inverse but also determines if it exists. The algorithm achieves this by calculating the greatest common divisor (GCD) of the integers, which is a prerequisite for a multiplicative inverse to exist.
